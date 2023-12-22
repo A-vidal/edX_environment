@@ -10,7 +10,8 @@ Data/html_template/*
 Data/html_template/*
 !Data/html_template/
 Structurer/.testing/*
-!Structurer/.testing/*
+!Structurer/.testing/
+Data/res4city-logo-rectangle.svg
 
 # xnf2edx_cli
 !xnf2edx_cli/data/output/

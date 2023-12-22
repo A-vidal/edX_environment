@@ -1,0 +1,5 @@
+{
+    "chrome_path": "C:\\Program Files\\Google\\Chrome Beta\\Application\\chrome.exe",
+    "path_UserData": "C:\\Users\\Usuario\\AppData\\Local\\Google\\Chrome Beta\\User Data\\",
+    "driver_path": "./Structurer/chromedriver.exe"
+}

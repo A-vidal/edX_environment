@@ -1,0 +1,7 @@
+# name: X2E
+# dependencies:
+  - xlrd
+  - openpyxl
+  - docx
+  - selenium
+  - fuzzywuzzy

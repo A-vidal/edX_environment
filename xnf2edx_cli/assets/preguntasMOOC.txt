@@ -1,0 +1,84 @@
+Examen tema 1
+
+Señale la frase correcta
+
+*La conducción de calor se produce debido a la diferencia de temperatura
+La diferencia de temperatura se produce debido a la conducción de calor
+La conducción de calor no está relacionada con la diferencia de temperatura
+La conducción de calor no se produce en cuerpos en reposo total
+
+La variación de la energía en un elemento la podemos calcular como 
+
+m·cp·dE
+m·cv·dE
+*m·cp·dT
+m·cv·dT
+
+En transmisión de calor en cilindros la variable independiente sobre la que habrá que integrar la ecuación diferencial es
+
+A
+*r
+l
+T
+
+En la ecuación diferencial de conducción de calor en esferas ¿el área es constante?
+
+Sí
+*No
+
+¿Cuántas condiciones de borde son necesarias para resolver la ecuación diferencial de transmisión de calor unidimensional?
+
+Ninguna
+1
+*2
+3
+
+Si tenemos una serie de placas planas en serie entre las que se transmite todo el calor y no se genera calor adicional entre capas (estado estacionario), ¿qué temperaturas necesitamos para calcular el flujo de calor?
+
+Ninguna
+La inicial
+*La inicial y la final
+La inicial, la final y todas las intermedias entre capas
+
+En ¿cuál de las resistencias térmicas aparece un logaritmo natural en la fórmula?
+
+En la de la conducción en placa plana
+*En la de la conducción en cilindro
+En la de la conducción en esfera
+En la de convección
+
+La velocidad de transferencia de calor a través de un medio depende de:
+
+La geometría del medio
+El material que lo constituye
+El espesor del medio
+*Todas las anteriores
+
+Según la ley de Fourier, el flujo de calor por conducción en un fenómeno unidimensional depende de:
+
+El gradiente de temperatura en función de la dirección de propagación y la conductividad térmica 
+La conductividad térmica y el área perpendicular al flujo de calor
+*El gradiente de temperatura en función de la dirección de propagación, la conductividad térmica y el área perpendicular al flujo de calor
+El gradiente de temperatura en función de la dirección de propagación, la conductividad térmica y el área paralela al flujo de calor
+
+La difusividad térmica se define como:
+
+A/(m·cp)
+A/(ro·cp)
+*k/(ro·cp)
+k/(m·cp)
+
+En el caso estacionario de transmisión de calor por conducción en una esfera:
+
+*El término dT/dt=0
+El término egen/k=0
+Los términos dT/dt y egen/k son siempre iguales a 0
+Ningún término de la ecuación diferencia es igual a 0
+
+
+En una serie de paredes planas en el denominador de la ecuación para calcular el flujo de calor los términos serán del tipo:
+
+Ln
+Kn
+*Ln/Kn
+Kn/Ln

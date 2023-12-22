@@ -1,3 +1,25 @@
+# Inputs / Outputs 
+MC_input/*
+Excel_output/*
+Final_output/*
+
+# Config 
+MC*proposals*from*partners/*
+Data/html_template/*
+!Data/html_template/
+Data/html_template/*
+!Data/html_template/
+Structurer/.testing/*
+!Structurer/.testing/*
+
+# xnf2edx_cli
+!xnf2edx_cli/data/output/
+xnf2edx_cli/data/output/*
+xnf2edx_cli/data/*
+!xnf2edx_cli/data/output/
+xnf2edx_cli/data/output/*
+!xnf2edx_cli/data/output/.watchtower
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -120,13 +142,13 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
-.venv
-env/
-venv/
-ENV/
-env.bak/
-venv.bak/
+# .env
+# .venv
+# env/
+# venv/
+# ENV/
+# env.bak/
+# venv.bak/
 
 # Spyder project settings
 .spyderproject
